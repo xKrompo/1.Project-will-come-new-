@@ -16,5 +16,5 @@ The project is about my passion Formula 1
 * Also I want to make it like my Project for showing my skills 
 ## Contact
 
-Nikolas Wolf - [@Instagram_handle](https://www.instagram.com/wolf_nikolas12/) - mikulaswolf@gmail.com
+Nikolas Wolf - [@Instagram](https://www.instagram.com/wolf_nikolas12/) - mikulaswolf@gmail.com
 Project Link: [https://github.com/xKrompo/Portfolio](https://github.com/xKrompo/Portfolio)
